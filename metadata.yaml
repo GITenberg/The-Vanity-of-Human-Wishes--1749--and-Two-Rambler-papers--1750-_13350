@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/297
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
 description: Zusammengebunden mit den Serien-Nr. 13, 31, 46 und 47.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13350#The-Vanity-of-Human-Wishes--1749--and-Two-Rambler-papers--1750-
 gutenberg_issued: '2004-09-02'
 gutenberg_type: Text
 identifiers:
