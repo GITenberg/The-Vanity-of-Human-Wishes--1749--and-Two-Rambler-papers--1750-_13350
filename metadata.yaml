@@ -1,0 +1,36 @@
+_repo: The-Vanity-of-Human-Wishes--1749--and-Two-Rambler-papers--1750-_13350
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bronson, Bertrand Harris
+    alias: Bronson, B. H. (Bertrand Harris)
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '39640'
+    url: http://www.gutenberg.org/2009/agents/39640
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+description: Zusammengebunden mit den Serien-Nr. 13, 31, 46 und 47.
+gutenberg_issued: '2004-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- !lcsh 'Essays'
+title: The Vanity of Human Wishes (1749) and Two Rambler papers (1750)
+url: http://www.gutenberg.org/ebooks/13350
